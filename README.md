@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rishabh Panwar</h1>
-<h3 align="center">Application Dveleoper || Java || Kotlin</h3>
+<h3 align="center">Android Dveleoper || Java || Kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh2005&label=Profile%20views&color=0e75b6&style=flat" alt="rishabh2005" /> </p>
 
-- 🔭 I’m currently working on **Shoping application**
+- 🔭 I’m currently working on **Kotlin project using 
+Advanced Development Techniques: Dependency Injection,kotlin coroutines and, MVVM**
 
-- 🌱 I’m currently learning **Java,Android,Flutter,Java framworks**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **panwarrishabh077@gmail.com**
 
